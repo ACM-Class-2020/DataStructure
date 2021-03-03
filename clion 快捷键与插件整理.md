@@ -2,6 +2,8 @@ clion 快捷键与插件整理
 
 首推插件 Key Promoter X
 
+https://www.youtube.com/watch?v=fP4D7YwHd-Q
+
 [Clion：如何有效利用快捷键提高开发效率 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/345976871)
 
 [clion快捷键_firetreeSF的博客-CSDN博客](https://blog.csdn.net/firetreeSF/article/details/53468515)
